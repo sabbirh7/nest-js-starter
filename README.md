@@ -17,7 +17,6 @@ A comprehensive NestJS starter kit designed for building scalable, secure, and m
 - **JWT Authentication**: Secure authentication using Passport JSON Web Tokens (JWT) with support for access and refresh tokens.
 - **Role-Based Access Control (RBAC)**: Implement fine-grained security with user roles and permissions to control access to resources and routes.
 - **Swagger**: Auto-generated API documentation with Swagger for easy testing and exploring your API endpoints.
-- **Docker**: Full Dockerization to ensure consistent development, testing, and production environments.
 - **Prisma ORM**: Simplified database management and interactions with PostgreSQL using Prisma ORM.
 - **Redis Integration**: For caching, session storage, and message brokering to improve performance and scalability.
 - **Mysql**: A robust relational database setup with Prisma, ready for production-grade applications.
@@ -35,8 +34,8 @@ A comprehensive NestJS starter kit designed for building scalable, secure, and m
 
 ```bash
 # Clone the Repository
-$ git clone https://github.com/sayafIsmael/nestjs-prisma-starter-redis-kafka-dockerized.git
-$ cd nestjs-prisma-starter-redis-kafka-dockerized
+$ git clone ""
+$ cd nest-js-starter
 
 #Install node modules
 $ npm install
