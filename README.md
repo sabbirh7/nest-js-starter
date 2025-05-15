@@ -28,7 +28,6 @@ A comprehensive NestJS starter kit designed for building scalable, secure, and m
 - **Database**: Mysql
 - **Redis** (Caching, Session Storage, Message Brokering)
 - **API Documentation**: Swagger
-- **Containerization**: Docker
 
 ## Get started
 
